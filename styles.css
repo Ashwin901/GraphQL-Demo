@@ -1,0 +1,16 @@
+body{
+    background-color: #252525;
+    color: white;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+select{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 1rem;
+    font-size: 1rem;  
+}
